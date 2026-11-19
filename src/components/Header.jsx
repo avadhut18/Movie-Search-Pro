@@ -6,8 +6,8 @@ const Header = () => {
   return (
     <header className="site-header">
       <Link to="/" className="site-header__brand">
-        <span className="site-header__mark">M</span>
-        <span className="site-header__name">Marquee</span>
+        <span className="site-header__mark">AV</span>
+        <span className="site-header__name">AVmovies</span>
       </Link>
     </header>
   );
