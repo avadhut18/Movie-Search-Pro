@@ -1,4 +1,4 @@
-# Marquee — Movie Search
+# AV — Movie Search
 
 A responsive movie search app built with React, using live data from the [OMDb API](https://www.omdbapi.com/).
 
